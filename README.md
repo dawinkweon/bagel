@@ -1,4 +1,4 @@
-# bagel
+# 🥯 bagel
 ## Overview
 
 Log your spending with minimal number of taps and visualise your money flow and track budgets and goals.
