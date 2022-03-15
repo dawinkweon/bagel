@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bagel/static/css/main.073c9b0a.css",
+    "main.js": "/bagel/static/js/main.86c98467.js",
+    "static/js/787.be7208c4.chunk.js": "/bagel/static/js/787.be7208c4.chunk.js",
+    "index.html": "/bagel/index.html",
+    "main.073c9b0a.css.map": "/bagel/static/css/main.073c9b0a.css.map",
+    "main.86c98467.js.map": "/bagel/static/js/main.86c98467.js.map",
+    "787.be7208c4.chunk.js.map": "/bagel/static/js/787.be7208c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.86c98467.js"
+  ]
+}
